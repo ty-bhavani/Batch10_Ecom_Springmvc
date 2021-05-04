@@ -6,7 +6,7 @@ import com.te.ecommerce.bean.Item;
 
 
 
-public interface EcomCartDao {
+public interface EcomDao {
 
 	public Admin authenticate(Integer id, String password);
 	
